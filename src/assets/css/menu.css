@@ -1,0 +1,13 @@
+
+.hide-mobile{
+  display: none;
+}
+
+.hide-mobile .item-menu {
+  margin-left: 20px;
+}
+@media only screen and (max-width: 990px) {
+  .hide-mobile{
+    display: block;
+  }
+}
