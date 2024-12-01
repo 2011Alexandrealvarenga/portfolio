@@ -6,8 +6,53 @@
 .hide-mobile .item-menu {
   margin-left: 20px;
 }
+.eng-cont{
+  display: none;
+}
+.language{
+  padding: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  background: #000000;
+}
+.btn-eng-cont,
+.btn-prt-cont{cursor: pointer;}
+
+.language .ir-eua img,
+.language .ir-brasil img  
+{
+  height: 20px;
+  margin: 4px;
+}
+/* .header{background: #131512;} */
+.bg-body-tertiary {
+  background-color: #131512!important;
+}
+.nav-link {
+  color: white;
+}
+.nav-link:hover {
+  padding-bottom: 0px;
+  color: white;
+  border-bottom: 3px solid white;
+}
 @media only screen and (max-width: 990px) {
   .hide-mobile{
     display: block;
+  }
+  .header .navbar-dark .navbar-toggler {
+    color: rgba(255, 255, 255, 1);
+    border-color: rgba(255, 255, 255, 1);
+  }
+  .header button.navbar-toggler.collapsed {
+    background: white;
+  }
+  .header button.navbar-toggler {
+    background: white;
+  }
+  .header a.item-menu.navbar-brand {
+    color: white;
   }
 }
