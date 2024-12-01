@@ -1,0 +1,31 @@
+.obj-profissional{
+  padding: 40px 0;
+}
+.obj-profissional .objetivo-profissional {
+  text-align: center;
+  background: #f9f9f9;
+  padding: 40px;
+}
+.obj-profissional .objetivo-profissional .content-contact {
+  display: flex;
+  justify-content: center;
+}
+.obj-profissional .objetivo-profissional .content-contact .item a {
+  display: flex;
+  flex-direction: column;
+  color: #000;
+}
+.obj-profissional .objetivo-profissional .content-contact .item {
+  margin: 16px 16px 0 16px;
+}
+.obj-profissional a,
+.obj-profissional a:hover {
+  text-decoration: none;
+}
+.obj-profissional .objetivo-profissional .content-contact i.fa-github, 
+.obj-profissional .objetivo-profissional .content-contact i.fa.fa-linkedin, 
+.obj-profissional .objetivo-profissional .content-contact i.fa.fa-file {
+  font-size: 40px;
+  color: #000;
+  padding: 10px;
+}
