@@ -1,0 +1,16 @@
+.experiencia{
+  padding: 50px 0;
+  background: #f9f9f9;
+}
+.experiencia .title{
+  text-align: center;
+  margin: 0 0 20px 0;
+}
+.experiencia .content .item{
+  margin: 0 0 20px 0;
+  background: #fff;
+  padding: 10px;
+}
+.experiencia .content .item .sub-title{
+  font-weight: bold;
+}
