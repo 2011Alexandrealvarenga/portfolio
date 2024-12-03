@@ -1,0 +1,46 @@
+.trabalhos{
+  padding: 50px 0;
+}
+.trabalhos .title{
+  text-align: center;
+  font-size: 18px;
+}
+.trabalhos .content{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.trabalhos .content .item{
+  font-weight: bold;
+  color: #000;
+  text-align: center;
+  margin: 10px;
+  /* border: 1px solid black; */
+  padding: 20px;
+  width: 300px;
+  box-shadow: #f9f9f9;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); 
+
+}
+.trabalhos .content .item .img-trabalho{
+  object-fit: cover;
+  width: 260px;
+  height: 180px;
+  border-radius: 0px 20px 0px 0px;
+}
+.trabalhos .content .item .content-tecnologia{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.trabalhos .content .item span{
+  font-size: 12px;
+  padding: 2px 8px;
+  margin: 2px;
+  background: #f9f9f9;
+  color: #000;
+  border-radius: 8px;
+  border: 1px solid black
+}
+
+

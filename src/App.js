@@ -6,6 +6,7 @@ import AppObjProfissional from './components/pages/obj-profissional';
 import AppTecnologia from './components/pages/tecnologia';
 import AppEscolaridade from './components/pages/escolaridade';
 import AppEProfissional from './components/pages/exp-profissional';
+import AppTrabalhos from './components/pages/trabalhos';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <AppTecnologia />
       <AppEscolaridade />
       <AppEProfissional />
+      <AppTrabalhos />
     </main>
     </>
   );
