@@ -36,7 +36,7 @@ export default function AppEProfissional(){
               {
                 ExperienciaData.map(experiencia =>{
                   return(                    
-                    <div className="item">
+                    <div className="item" key={experiencia.id}>
                       <span>
                         <span className="sub-title">Empresa: </span>
                         {experiencia.empresa}

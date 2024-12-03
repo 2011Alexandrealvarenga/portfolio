@@ -44,7 +44,7 @@ export default function AppTrabalhos(){
               {
                 trabalhosData.map(trabalho =>{
                   return(
-                    <div className="item">
+                    <div className="item" key={trabalho.id}>
                         <Image src={trabalho.img} className="img-trabalho"/>
                         <h2 className="title">{trabalho.trabalho}</h2>
                         <div className="content-tecnologia">
