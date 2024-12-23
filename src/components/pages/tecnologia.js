@@ -104,6 +104,7 @@ export default function AppTecnologia(){
           <Col className='justify-content-center d-flex'>
               <div className="content ">
                 <h2 className="title prt-cont">Tecnologias</h2>
+                <img src="" alt="" />
                 <h2 className="title eng-cont">Tecnologies</h2>
               </div>
           </Col>
