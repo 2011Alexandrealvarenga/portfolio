@@ -1,0 +1,96 @@
+.sobre{
+  padding: 50px 0;
+  background: url(https://2011alexandrealvarenga.github.io/Portfolio2/assets/img/escritorio.jpg) no-repeat;
+  background-size: cover;
+  width: 100%;
+  /* height: 600px; */
+  overflow: hidden;
+  background-attachment: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sobre .content{
+  display: flex;
+  justify-content: center;
+  height: 255px;
+}
+.sobre .content .content-img{
+  background: url(../../assets/img/me.JPG) no-repeat;
+  background-size: cover;
+  width: 300px;
+  /* padding: 30px 0; */
+  /* height: 100%; */
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+}
+.sobre .content-desc{
+  height: 100%;
+  background: white;
+  margin: 0 8px;
+  padding: 14px;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  border-radius: 8px;
+}
+.sobre .content-desc .title{
+  font-size: 24px;
+  text-align: center;
+  margin: 0 0 16px 0;
+}
+.sobre .content-desc ul{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.border-image{
+}
+.content-sobre{
+  display: flex;
+}
+.border-content{
+}
+.content-total{
+  /* height: 350px; */
+}
+.about{
+  background-color: white;
+  height: 500px;
+
+}
+.foto{
+}
+
+
+@media only screen and (max-width: 990px) {
+  .sobre .content {
+    height: 250px;
+  }
+}
+@media only screen and (max-width: 992px) {
+  .sobre .content .content-img{
+    width: 180px;
+    height: 190px;
+
+  }
+
+  .sobre .content {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .sobre .content-desc{
+    height: 215px;
+    margin: 0;
+  }
+  .sobre{
+    height: inherit;
+    padding: 20px 0;
+  }
+}

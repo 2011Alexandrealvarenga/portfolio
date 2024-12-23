@@ -8,6 +8,7 @@ import AppEscolaridade from './components/pages/escolaridade';
 import AppEProfissional from './components/pages/exp-profissional';
 import AppTrabalhos from './components/pages/trabalhos';
 import AppCurso from './components/pages/curso';
+import AppSobre from './components/pages/sobre';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <AppHeader/>
     </header>
     <main>
+      <AppSobre/>
       <AppObjProfissional />
       <AppTecnologia />
       <AppEscolaridade />
