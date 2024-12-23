@@ -114,7 +114,7 @@ export default function AppCurso(){
       <Container>
         <Row>
           <Col>
-            <h2 className="title justify-content-md-center d-flex">Cursos</h2>
+            <h2 className="title justify-content-center d-flex">Cursos</h2>
             <div className="content">
               {
                 CourseData.map(curso =>{

@@ -3,7 +3,6 @@
 }
 .trabalhos .title{
   text-align: center;
-  font-size: 18px;
 }
 .trabalhos .content{
   display: flex;
@@ -27,7 +26,6 @@
   object-fit: cover;
   width: 260px;
   height: 180px;
-  border-radius: 0px 20px 0px 0px;
 }
 .trabalhos .content .item .content-tecnologia{
   display: flex;

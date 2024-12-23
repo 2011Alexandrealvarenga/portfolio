@@ -1,5 +1,5 @@
 .sobre{
-  padding: 50px 0;
+  padding: 80px 0;
   background: url(https://2011alexandrealvarenga.github.io/Portfolio2/assets/img/escritorio.jpg) no-repeat;
   background-size: cover;
   width: 100%;
@@ -47,24 +47,15 @@
   margin: 0;
   padding: 0;
 }
-.border-image{
-}
+
 .content-sobre{
   display: flex;
-}
-.border-content{
-}
-.content-total{
-  /* height: 350px; */
 }
 .about{
   background-color: white;
   height: 500px;
 
 }
-.foto{
-}
-
 
 @media only screen and (max-width: 990px) {
   .sobre .content {
@@ -87,7 +78,7 @@
   }
   .sobre .content-desc{
     height: 215px;
-    margin: 0;
+    margin: 20px 0 0 0;
   }
   .sobre{
     height: inherit;

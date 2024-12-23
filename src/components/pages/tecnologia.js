@@ -101,7 +101,7 @@ export default function AppTecnologia(){
     <section className="tools" id="tecnologias">
       <Container>
         <Row>
-          <Col className='justify-content-md-center d-flex'>
+          <Col className='justify-content-center d-flex'>
               <div className="content ">
                 <h2 className="title prt-cont">Tecnologias</h2>
                 <h2 className="title eng-cont">Tecnologies</h2>
