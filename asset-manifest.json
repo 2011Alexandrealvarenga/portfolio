@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.f09dce94.css",
+    "main.js": "/portfolio/static/js/main.936486d2.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/diverbrink.PNG": "/portfolio/static/media/diverbrink.de710792435d1a38d19a.PNG",
+    "static/media/tokiomarine.PNG": "/portfolio/static/media/tokiomarine.83d0560949e003460210.PNG",
+    "static/media/blog-tokiomarine.png": "/portfolio/static/media/blog-tokiomarine.5f21d388e1d9a4fafc1f.png",
+    "static/media/boraviver.jpg": "/portfolio/static/media/boraviver.d8c40fa20ef309c92cd9.jpg",
+    "static/media/me.JPG": "/portfolio/static/media/me.2ab320c052fd78f9e76e.JPG",
+    "static/media/jquery.svg": "/portfolio/static/media/jquery.05f9bb340e4a314269e9746dea843668.svg",
+    "static/media/xampp.svg": "/portfolio/static/media/xampp.d194d102078a44918adee3e0389361b1.svg",
+    "static/media/github.svg": "/portfolio/static/media/github.e72486b5718bf06f80305f38358b6542.svg",
+    "static/media/sass.svg": "/portfolio/static/media/sass.757dd92880996870562408126e62f27c.svg",
+    "static/media/mysql.svg": "/portfolio/static/media/mysql.b85f92799d6bd05b23eba93c09c7d2ba.svg",
+    "static/media/seo.svg": "/portfolio/static/media/seo.ac7122c4a38532cae4fbd00e03b7cdaf.svg",
+    "static/media/gitlab.svg": "/portfolio/static/media/gitlab.509a594e0960605531c6bc413005207a.svg",
+    "static/media/gulp.svg": "/portfolio/static/media/gulp.5a65abfc7560ed8077fd8bf7fee512f2.svg",
+    "static/media/git.svg": "/portfolio/static/media/git.a9baec77ab01295cdc5e7e31d6e030ed.svg",
+    "static/media/php.svg": "/portfolio/static/media/php.0f1bea6ef9963220f5ea81f078a216cf.svg",
+    "static/media/javascript-icon.svg": "/portfolio/static/media/javascript-icon.c6c0a7260c58209b2403b638b2da4ff0.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/semrush.svg": "/portfolio/static/media/semrush.7bc03b56e261d98dd88eb38e1415be2f.svg",
+    "static/media/wordpress.svg": "/portfolio/static/media/wordpress.9638892d49cc62e06414aed41ca9880d.svg",
+    "static/media/bootstrap.svg": "/portfolio/static/media/bootstrap.0ffe9f8bc6f8695b21302f3768b1f5a8.svg",
+    "static/media/html.svg": "/portfolio/static/media/html.9d2247587450ad2976bdf5f3c1bf16d6.svg",
+    "static/media/css.svg": "/portfolio/static/media/css.5757d468e6a984fafc21124299556466.svg",
+    "static/media/elementor.svg": "/portfolio/static/media/elementor.97233837b2e92d5299cdb91e6661f2ae.svg",
+    "main.f09dce94.css.map": "/portfolio/static/css/main.f09dce94.css.map",
+    "main.936486d2.js.map": "/portfolio/static/js/main.936486d2.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f09dce94.css",
+    "static/js/main.936486d2.js"
+  ]
+}
