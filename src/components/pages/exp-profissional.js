@@ -27,7 +27,7 @@ const ExperienciaData = [
 ]
 export default function AppEProfissional(){
   return(
-    <section id='exp-profissional' className='experiencia'>
+    <section id='experiencia' className='experiencia'>
       <Container>
         <Row>
           <Col md={{ span: 6, offset: 3 }} className=''> 

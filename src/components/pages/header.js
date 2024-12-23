@@ -31,7 +31,7 @@ export default function AppHeader(){
             </div>          
             <Navbar.Collapse id="basic-navbar-nav">
               <Nav className="me-auto">
-                <Nav.Link href="#home">SOBRE MIM</Nav.Link>
+                <Nav.Link href="#sobre">SOBRE MIM</Nav.Link>
                 <Nav.Link href="#objetivo-profissional">OBJETIVO PROFISSIONAL</Nav.Link>
                 <Nav.Link href="#escolaridade">ESCOLARIDADE</Nav.Link>
                 <Nav.Link href="#experiencia">EXPERIÊNCIAS</Nav.Link>

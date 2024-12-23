@@ -5,7 +5,7 @@ import '../../assets/css/obj-profissional.css';
 
 export default function AppObjProfissional(){
   return(
-    <section class="obj-profissional" id="professional">
+    <section class="obj-profissional" id="objetivo-profissional">
       <Container>
         <Row>
           <Col md={{ span: 6, offset: 3 }} className='jusfity-content-md-center'>          
