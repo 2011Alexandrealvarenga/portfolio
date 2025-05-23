@@ -12,7 +12,7 @@ export default function AppObjProfissional(){
               <div className="objetivo-profissional">
                 <h2>Objetivo Profissional</h2>
                 <h4 >Analista Full Stack WordPress/PHP Pleno</h4>          
-                <p>Olá, meu nome é Alexandre, tenho 37 anos (10/1985), moro em São Paulo, 
+                <p>Olá, meu nome é Alexandre, tenho 39 anos (10/1985), moro em São Paulo, 
                 falo inglês, venho trabalhando com desenvolvimento web Fevevereiro/2020, com foco maior em back-end do Wordpress e PHP, conheço front-end tambem.
                 </p> 
                 
